@@ -1,0 +1,22 @@
+{
+  "avatar": "https://i.ibb.co/nsyMvhp/sam-dacara.jpg",
+  "name": "Sam Dacara",
+  "title": "Front-end Developer",
+  "company": "Tactiv Studios",
+  "blurb": "A 2D|3D web animations enthusiast.",
+  "skills": ["React", "Angular", "VueJS", "GSAP", "ThreeJS"],
+  "contacts": [
+    {
+      "type": "website",
+      "url": "https://samdacara.vercel.app/"
+    },
+    {
+      "type": "linkedin",
+      "url": "https://www.linkedin.com/in/samshh/"
+    },
+    {
+      "type": "github",
+      "url": "https://github.com/Samshh"
+    }
+  ]
+}
